@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+#testinT{
+    text-align: center;
+    margin-top: 5%;
+    font-weight: bolder;
+    font-size: 40px;
+}
